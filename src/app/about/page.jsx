@@ -76,7 +76,7 @@ const AboutPage = () => {
                         </p>
                         {/* BIOGRAPHY QUOTE */}
                         <span className="italic">
-                        "Code is the bridge between dreams and reality, and every line written with purpose is a step towards innovation."
+                        &quot;Code is the bridge between dreams and reality, and every line written with purpose is a step towards innovation. &quot;
                         </span>
                         {/* BIOGRAPHY SIGN SVG*/}
                         <div className="self-end">
@@ -136,7 +136,7 @@ const AboutPage = () => {
                             className="flex gap-4 flex-wrap"
                         >
                             {list.map((li) => (
-                                <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+                                <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black" key={li}>
                                     {li}
                                 </div>
                             ))}

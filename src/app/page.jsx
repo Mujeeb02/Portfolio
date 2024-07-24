@@ -27,7 +27,7 @@
             </h1>
 
             {/* DESC */}
-            <p className="text-lg md:text-xl text-gray-700 mt-4">a software engineer and full stack developer. I turn ideas into seamless digital experiences, blending creativity and technical expertise. Let's build a more connected and vibrant digital world together.</p>
+            <p className="text-lg md:text-xl text-gray-700 mt-4">a software engineer and full stack developer. I turn ideas into seamless digital experiences, blending creativity and technical expertise. Let&apos;s build a more connected and vibrant digital world together.</p>
 
             {/* BUTTONS */}
             <div className="w-full flex gap-4">
