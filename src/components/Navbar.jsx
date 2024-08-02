@@ -94,7 +94,7 @@ const Navbar = () => {
           <Image src="/github.png" alt="" width={24} height={24} />
         </Link>
         <Link href="https://hashnode.com/@theMujeeb02">
-          <Image src="/hashnode.png" alt="" width={24} height={24} />
+          <Image src="/hashnode_1.png" alt="" width={24} height={24} />
         </Link>
         <Link href="https://www.instagram.com/the_mujeeb24/">
           <Image src="/instagram.png" alt="" width={24} height={24} />
