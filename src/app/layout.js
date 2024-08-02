@@ -5,7 +5,7 @@ import TransitionProvider from "@/components/TransitionProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Lama Dev Portfolio App",
+  title: "Mujeeb Ur Rahman",
   description: "The best animated portfolio page",
 };
 
