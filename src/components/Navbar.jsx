@@ -90,22 +90,22 @@ const Navbar = () => {
       </div>
       {/* SOCIAL */}
       <div className="hidden md:flex gap-4 w-1/3">
-        <Link href="/https://github.com/Mujeeb02">
+        <Link href="https://github.com/Mujeeb02">
           <Image src="/github.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
-          <Image src="/dribbble.png" alt="" width={24} height={24} />
+        <Link href="https://hashnode.com/@theMujeeb02">
+          <Image src="/hashnode.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
+        <Link href="https://www.instagram.com/the_mujeeb24/">
           <Image src="/instagram.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
+        <Link href="https://www.facebook.com/mujeeb.shahid.96/">
           <Image src="/facebook.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
-          <Image src="/pinterest.png" alt="" width={24} height={24} />
+        <Link href="https://medium.com/@mjbshahid9919">
+          <Image src="/medium.svg" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
+        <Link href="https://www.linkedin.com/in/mujeeb-ur-rahman-9343b3192/">
           <Image src="/linkedin.png" alt="" width={24} height={24} />
         </Link>
       </div>
